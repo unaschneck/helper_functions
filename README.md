@@ -1,5 +1,7 @@
 # helper_functions
 
+To automatically add all helper functions whenever MATLAB script is initialized, create a [setup.m function](https://www.youtube.com/watch?v=HhuA_kWQaK0&t=606) with addpath(location/of/helper_functions)
+
 ## 1. cleanstart(): 
 
 Runs clc, clear, close all
