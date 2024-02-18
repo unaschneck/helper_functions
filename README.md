@@ -3,7 +3,8 @@
 ## 1. cleanstart(): 
 
 Runs clc, clear, close all
-ex.) 
+
+ex.
 ```
 x = 1:10;
 y = x.^2;
@@ -15,7 +16,7 @@ cleanstart() % <-- closes everything and starts fresh
 
 Specify title, figure handle, and tab label with same name
 
-ex.) 
+ex.
 ```
 x = 1:10
 y = x.^2
