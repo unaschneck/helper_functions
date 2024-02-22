@@ -3,5 +3,6 @@ function cleanstart()
     clc;
     clear;
     close all;
+    %limit_num_figs(20)
     %restoredefaultpath;
 end
